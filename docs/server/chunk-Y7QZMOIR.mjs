@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{a as r,b as i,c as n,d as p,e as m,l as s,n as a,o as f,r as c,x as d}from"./chunk-2LCTFECS.mjs";var l=(()=>{let t=class t{constructor(){this.title="upload"}};t.\u0275fac=function(e){return new(e||t)},t.\u0275cmp=r({type:t,selectors:[["app-root"]],standalone:!0,features:[m],decls:2,vars:0,consts:[[1,"text-center","bg-danger"]],template:function(e,y){e&1&&(i(0,"h1",0),p(1,"Ahmed mohsen"),n())}});let o=t;return o})();var u=[];var g={providers:[d(u),f()]};var C={providers:[c()]},v=s(g,C);var h=()=>a(l,v),q=h;export{q as a};
